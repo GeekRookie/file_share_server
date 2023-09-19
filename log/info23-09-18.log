@@ -1,0 +1,18 @@
+ERROR 23:05:27 file_share_server/handler/set.go:28 共享文件创建失败:<nil>
+WARN 23:05:27 file_share_server/handler/get.go:14 未读取到共享文件
+INFO 23:09:03 file_share_server/handler/set.go:27 <nil>
+ERROR 23:09:03 file_share_server/handler/set.go:31 共享文件创建失败:<nil>
+WARN 23:09:03 file_share_server/handler/get.go:14 未读取到共享文件
+INFO 23:09:56 file_share_server/handler/set.go:27 <nil>
+ERROR 23:09:56 file_share_server/handler/set.go:31 共享文件创建失败:<nil>
+WARN 23:09:56 file_share_server/handler/get.go:14 未读取到共享文件
+INFO 23:11:33 file_share_server/handler/set.go:16 {"ShareUser":"jack","Path":"/","Size":100,"ShareTime":10,"ShareAddress":"127.0.0.1:7890"}
+INFO 23:11:33 file_share_server/handler/set.go:28 <nil>
+ERROR 23:11:33 file_share_server/handler/set.go:32 共享文件创建失败:<nil>
+WARN 23:11:33 file_share_server/handler/get.go:14 未读取到共享文件
+INFO 23:12:29 file_share_server/handler/set.go:16 {"ShareUser":"jack","Path":"/","Size":100,"ShareTime":10,"ShareAddress":"127.0.0.1:7890"}
+INFO 23:12:29 file_share_server/handler/set.go:28 &{jack / 100 10 127.0.0.1:7890}
+ERROR 23:12:29 file_share_server/handler/get.go:26 发送数据给客户端失败:connection is closed when send message
+INFO 23:49:07 file_share_server/handler/set.go:26 文件序列化成功:&{jack /home/v/cv_debug.log 100 10 127.0.0.1:9999}
+WARN 23:49:07 file_share_server/handler/get.go:14 未读取到共享文件
+INFO 23:49:19 file_share_server/handler/set.go:26 文件序列化成功:&{bob / 100 10 127.0.0.1:8888}

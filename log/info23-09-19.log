@@ -1,0 +1,21 @@
+INFO 07:50:32 file_share_server/handler/set.go:26 文件序列化成功:&{jack /home/v/cv_debug.log 100 10 127.0.0.1:9999}
+INFO 07:50:40 file_share_server/handler/set.go:26 文件序列化成功:&{bob / 100 10 127.0.0.1:8888}
+INFO 07:51:20 file_share_server/handler/set.go:26 文件序列化成功:&{bob / 100 10 127.0.0.1:8888}
+INFO 07:53:01 file_share_server/handler/set.go:26 文件序列化成功:&{bob / 100 10 127.0.0.1:8888}
+INFO 07:53:10 file_share_server/handler/set.go:26 文件序列化成功:&{bob / 100 10 127.0.0.1:8888}
+INFO 07:53:18 file_share_server/handler/set.go:26 文件序列化成功:&{bob / 100 10 127.0.0.1:8888}
+INFO 07:53:55 file_share_server/handler/set.go:26 文件序列化成功:&{bob / 100 10 127.0.0.1:8888}
+INFO 07:55:26 file_share_server/handler/set.go:26 文件序列化成功:&{bob / 100 10 127.0.0.1:8888}
+ERROR 07:58:35 file_share_server/handler/del.go:28 共享文件删除失败:<nil>
+INFO 07:58:38 file_share_server/handler/set.go:26 文件序列化成功:&{jack /home/v/cv_debug.log 100 10 127.0.0.1:9999}
+ERROR 07:58:44 file_share_server/handler/del.go:28 共享文件删除失败:<nil>
+INFO 07:58:51 file_share_server/handler/set.go:26 文件序列化成功:&{jack /home/v/cv_debug.log 100 10 127.0.0.1:9999}
+INFO 07:58:54 file_share_server/handler/set.go:26 文件序列化成功:&{bob / 100 10 127.0.0.1:8888}
+ERROR 07:59:35 file_share_server/handler/del.go:28 共享文件删除失败:<nil>
+INFO 08:00:03 file_share_server/handler/set.go:26 文件序列化成功:&{jack /home/v/cv_debug.log 100 10 127.0.0.1:9999}
+INFO 08:00:13 file_share_server/handler/set.go:26 文件序列化成功:&{bob / 100 10 127.0.0.1:8888}
+ERROR 08:01:16 file_share_server/handler/del.go:28 共享文件删除失败:<nil>
+INFO 08:01:51 file_share_server/handler/set.go:26 文件序列化成功:&{jack /home/v/cv_debug.log 100 10 127.0.0.1:9999}
+INFO 08:01:53 file_share_server/handler/set.go:26 文件序列化成功:&{bob / 100 10 127.0.0.1:8888}
+INFO 08:15:01 file_share_server/handler/set.go:26 文件序列化成功:&{jack /home/v/cv_debug.log 100 10 127.0.0.1:9999}
+INFO 08:15:10 file_share_server/handler/set.go:26 文件序列化成功:&{bob / 100 10 127.0.0.1:8888}

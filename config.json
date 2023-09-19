@@ -1,0 +1,19 @@
+{
+    "Server": {
+        "IP": "127.0.0.1",
+        "Port": 7890
+    },
+    "Broadcast": {
+        "IP": "255.255.255.255",
+        "Port": 6789
+    },
+    "Database": {
+        "DSN": "root:1234@tcp(127.0.0.1:3306)/file_share?charset=utf8mb4&parseTime=True&loc=Local",
+        "SlowThreshold": 1000,
+        "LogLevel": 4,
+        "Colorful": true
+    },
+    "Log": {
+        "Location": "./log/info"
+    }
+}
